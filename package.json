@@ -1,0 +1,24 @@
+{
+  "name": "marksafebycorona",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.19.2",
+    "cors": "^2.8.5",
+    "leaflet": "^1.6.0",
+    "notie": "^4.3.1",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-leaflet": "^2.6.3",
+    "react-lottie": "^1.2.3",
+    "react-scripts": "0.9.5",
+    "react-share": "^4.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
